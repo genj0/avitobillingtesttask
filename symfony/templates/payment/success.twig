@@ -1,0 +1,13 @@
+{% extends 'base.html.twig' %}
+
+{% block stylesheets %}{% endblock %}
+
+{% block title %}{{ message|trans }}{% endblock %}
+
+{% block body %}
+
+    <div class="alert alert-success">
+        {{ message|trans }}
+    </div>
+
+{% endblock %}

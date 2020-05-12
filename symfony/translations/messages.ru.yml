@@ -1,0 +1,10 @@
+Number: 'Номер'
+Expiry date: 'Дата истечения срока действия'
+Cardholder name: 'Имя владельца карты'
+Security number: 'CVV'
+Pay: 'Оплатить'
+Purpose: 'Назначение платежа'
+PaymentSession:
+  Invalid: 'Платежная сессия недействительна'
+  Expired: 'Сессия не найдена или более недействительна'
+  Success: 'Платеж успешно совершен'
